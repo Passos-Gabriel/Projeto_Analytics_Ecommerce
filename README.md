@@ -25,11 +25,14 @@ Este projeto realiza a segmentação de clientes com base na metodologia **RFM (
 
 ## 📂 Estrutura do Projeto
 
-📁 Projeto1-Dados-Ecommerce/<br>
-│<br>
-├── [Bronze] Projeto1-Dados E-Commerce.ipynb # Ingestão e armazenamento inicial<br>
-├── [Silver] Projeto1-Dados E-Commerce.ipynb # Limpeza e formatação<br>
-├── [Gold] Projeto1-Dados E-Commerce.ipynb # Cálculo RFM e segmentação<br>
+```
+📁 Projeto1-Dados-Ecommerce/
+│
+└── 📁 Data_Layers/
+    ├── [Bronze] Projeto1-Dados E-Commerce.ipynb   # Ingestão e armazenamento inicial
+    ├── [Silver] Projeto1-Dados E-Commerce.ipynb   # Limpeza e formatação
+    └── [Gold] Projeto1-Dados E-Commerce.ipynb     # Cálculo RFM e segmentação
+```
 
 ---
 
